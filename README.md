@@ -1,11 +1,17 @@
 ### Hello, I'm Luis M. Balderas, backend developer
 
 Technologies I work with:
--html.     -css.      -javaScript.
--react.js  -boostrap  -node.js
--express   -jwt       -passport
+- html.     
+-  css.     
+-  javaScript.
+- react.js  
+- boostrap  
+- node.js
+- express   
+- jwt     
+- passport
 
-### Proyectos en los que eh trabajado:
+### Proyectos en los que eh trabajado 📱:
 Ture
 Backend = https://github.com/Luis-Balderas/Ture-Backend
 
