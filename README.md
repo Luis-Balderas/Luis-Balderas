@@ -5,7 +5,7 @@ Technologies I work with:
 -react.js  -boostrap  -node.js
 -express   -jwt       -passport
 
-###Proyectos en los que eh trabajado:
+### Proyectos en los que eh trabajado:
 Ture
 Backend = https://github.com/Luis-Balderas/Ture-Backend
 
