@@ -17,11 +17,6 @@ Backend = https://github.com/Luis-Balderas/Ture-Backend
 
 Pagina desplegada = https://ture-api-db.vercel.app/api
 
-Itzamná
-Backend = 
-
-Pagina desplegada =
-
 Roomie fidel
 Backend = https://github.com/C4-Estefany-Team2/Backend
 
