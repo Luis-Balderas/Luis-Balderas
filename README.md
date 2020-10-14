@@ -1,4 +1,5 @@
 
+```
 const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML, CSS],
@@ -15,5 +16,16 @@ const aboutMe = {
    currentOccupation: ["Platzi Master student, open for job opportunities"],
    challenge: "I'm studying hard to be an artificial intelligence programmer.",
 };
+```
 
 
+### Proyectos en los que eh trabajado 📱:
+Ture
+Backend = https://github.com/Luis-Balderas/Ture-Backend
+
+Pagina desplegada = https://ture-api-db.vercel.app/api
+
+Roomie fidel
+Backend = https://github.com/C4-Estefany-Team2/Backend
+
+Pagina desplegada = https://roomie-finder.vercel.app/
