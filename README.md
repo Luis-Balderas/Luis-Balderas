@@ -1,5 +1,23 @@
 ### Hello, I'm Luis M. Balderas, backend developer
 
+
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Bootstrap"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+      },
+      databases: ["MongoDB", "mySQL", "firebase"],
+   },
+   currentOccupation: ["Platzi Master student, open for job opportunities"],
+   challenge: "I'm studying hard to be an artificial intelligence programmer.",
+};
+
 Know me more:
 
 - I am learning in Platzi Master to be a Backend Developer 🎓
