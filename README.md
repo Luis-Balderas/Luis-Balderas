@@ -31,7 +31,7 @@
 
 
 ### Proyectos en los que eh trabajado <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> 
-<div align="center">
+
 Ture
 Backend = https://github.com/Luis-Balderas/Ture-Backend
 
@@ -42,4 +42,4 @@ Backend = https://github.com/C4-Estefany-Team2/Backend
 
 Pagina desplegada = https://roomie-finder.vercel.app/
 
-</div>
+
