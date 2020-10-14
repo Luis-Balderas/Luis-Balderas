@@ -1,7 +1,9 @@
+<h1 align="center">Hi <img src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="60px" height="70px">, I'm Luis Balderas
+<img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px"> </h1>
 
 
-
-### Tech & Tools Preference
+  
+### Tech & Tools Preference<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -19,15 +21,12 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
-
 ### You can find in me in the web 🌍
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/LuisMB27415194)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/luis-moises-balderas-garcia-072b801a0/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/luis.balderas.16144/)
 
-<br/>
-
-### Proyectos en los que eh trabajado 📱:
+### Proyectos en los que eh trabajado <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> 
 Ture
 Backend = https://github.com/Luis-Balderas/Ture-Backend
 
@@ -37,3 +36,5 @@ Roomie fidel
 Backend = https://github.com/C4-Estefany-Team2/Backend
 
 Pagina desplegada = https://roomie-finder.vercel.app/
+
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
