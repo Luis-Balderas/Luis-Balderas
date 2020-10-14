@@ -30,6 +30,10 @@
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/luis.balderas.16144/)
 
 
+<div align="center">  
+[![Luis-Balderas github stats](https://github-readme-stats.vercel.app/api?username=Luis-Balderas)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 ### Proyectos en los que eh trabajado <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> 
 
 Ture
