@@ -29,8 +29,9 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/luis-moises-balderas-garcia-072b801a0/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/luis.balderas.16144/)
 
-<div align="center">
+
 ### Proyectos en los que eh trabajado <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> 
+<div align="center">
 Ture
 Backend = https://github.com/Luis-Balderas/Ture-Backend
 
