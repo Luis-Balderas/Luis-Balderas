@@ -1,22 +1,5 @@
 
-```
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS],
-   technologies: {
-      frontEnd: {
-         js: ["React"],
-         css: ["Bootstrap"]
-      },
-      backEnd: {
-         js: ["Node", "Express"],
-      },
-      databases: ["MongoDB", "mySQL", "firebase"],
-   },
-   currentOccupation: ["Platzi Master student, open for job opportunities"],
-   challenge: "I'm studying hard to be an artificial intelligence programmer.",
-};
-```
+
 
 ### Tech & Tools Preference
 
@@ -38,9 +21,9 @@ const aboutMe = {
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://twitter.com/LuisMB27415194" />][twitter]
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://www.linkedin.com/in/luis-moises-balderas-garcia-072b801a0/" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://www.instagram.com/luis.balderas.16144/" />][instagram]
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/LuisMB27415194)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/luis-moises-balderas-garcia-072b801a0/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/luis.balderas.16144/)
 
 <br/>
 
