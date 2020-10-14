@@ -28,6 +28,7 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/LuisMB27415194)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/luis-moises-balderas-garcia-072b801a0/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/luis.balderas.16144/)
+</div>
 
 ### Proyectos en los que eh trabajado <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> 
 Ture
@@ -39,5 +40,5 @@ Roomie fidel
 Backend = https://github.com/C4-Estefany-Team2/Backend
 
 Pagina desplegada = https://roomie-finder.vercel.app/
-</div>
+
 
