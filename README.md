@@ -2,8 +2,8 @@
 
 Technologies I work with:
 - html.     
--  css.     
--  javaScript.
+- css.     
+- javaScript.
 - react.js  
 - boostrap  
 - node.js
@@ -15,10 +15,10 @@ Technologies I work with:
 Ture
 Backend = https://github.com/Luis-Balderas/Ture-Backend
 
-Pagina desplegada =
+Pagina desplegada = https://ture-api-db.vercel.app/api
 
 Itzamná
-Backend = https://github.com/Luis-Balderas/Ture-Backend
+Backend = 
 
 Pagina desplegada =
 
