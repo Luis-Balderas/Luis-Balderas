@@ -36,6 +36,14 @@ const aboutMe = {
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
+
+### You can find in me in the web 🌍
+[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://twitter.com/LuisMB27415194" />][twitter]
+[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://www.linkedin.com/in/luis-moises-balderas-garcia-072b801a0/" />][linkedin]
+[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://www.instagram.com/luis.balderas.16144/" />][instagram]
+
+<br/>
+
 ### Proyectos en los que eh trabajado 📱:
 Ture
 Backend = https://github.com/Luis-Balderas/Ture-Backend
