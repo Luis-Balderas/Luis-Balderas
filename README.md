@@ -3,7 +3,7 @@
 
 <div align="center">
 <img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width: 100px;">
-<div>
+</div>
   
 ### Tech & Tools Preference<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 
@@ -23,6 +23,7 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
+<div align="center">
 ### You can find in me in the web 🌍
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/LuisMB27415194)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/luis-moises-balderas-garcia-072b801a0/)
@@ -38,5 +39,5 @@ Roomie fidel
 Backend = https://github.com/C4-Estefany-Team2/Backend
 
 Pagina desplegada = https://roomie-finder.vercel.app/
-
+</div>
 
