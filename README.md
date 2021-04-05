@@ -35,11 +35,10 @@
 Ture
 Backend = https://github.com/Luis-Balderas/Ture-Backend
 
-Pagina desplegada = https://ture-api-db.vercel.app/api
-
 Roomie fidel
 Backend = https://github.com/C4-Estefany-Team2/Backend
 
-Pagina desplegada = https://roomie-finder.vercel.app/
+Itzamná = 
+
 
 
