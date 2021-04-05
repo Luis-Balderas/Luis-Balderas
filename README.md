@@ -1,9 +1,5 @@
-<h1 align="center">Hi <img src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="60px" height="70px">, I'm Luis Balderas
-<img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px"> </h1>
+<h1 align="center">Hi, i'm Luis M Balderas
 
-<div align="center">
-<img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width: 100px;">
-</div>
   
 ### Tech & Tools Preference<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 
